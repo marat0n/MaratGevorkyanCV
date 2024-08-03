@@ -13,10 +13,10 @@ email: [marat2255a@gmail.com](mailto:marat2255a@gmail.com)
 
 |Place|Duration|My position and tasks|Occupation|
 |-|-|-|-|
-|Vebcore studio|10 months|Front-end `trainee` and `junior` developer <br> **stack**: pure HTML/CSS/JS + Gulp.|Fulltime|
-|IThub college's IT-incubator|2+ years|• `junior` and `middle` .NET-dev,<br>• `junior+` Node.js dev,<br>• `junior+` Dart & Flutter dev,<br>• project-manager and dev-leader in several teams.|Project-oriented|
-|IThub college's Ambassador|3+ years|Tech master-classes and courses creator and speaker (taught IT technologies to schoolers and college students).|Project-oriented|
 |Blazee telegram-bot <br><span style="color:white;font-size:.8em;background:#353535;padding:5px;border-radius:5px">not ready yet</span>|8 months (continues)|.NET F# `middle` dev, Flutter `middle` dev, Telegram-bot creator, Web-designer, Product-manager|Was Fulltime, became Project-oriented|
+|IThub college's Ambassador|3+ years|Tech master-classes and courses creator and speaker (taught IT technologies to schoolers and college students).|Project-oriented|
+|IThub college's IT-incubator|2+ years|• `junior` and `middle` .NET-dev,<br>• `junior+` Node.js dev,<br>• `junior+` Dart & Flutter dev,<br>• project-manager and dev-leader in several teams.|Project-oriented|
+|Vebcore studio|10 months|Front-end `trainee` and `junior` developer <br> **stack**: pure HTML/CSS/JS + Gulp.|Fulltime|
 |Open-source|Whole life :)|Github projects:<br>• [DragulaDropula](https://github.com/marat0n/DragulaDropula) -- A .NET Blazor package for dragging-and-droppping functionality (for canvas-oriented UX).<br>• [KarteVonMorgen]() -- "The map of tomorrow", a map accumulated all good places, where I participated in updating the landing-page and map-functionality in the russian version of project, before it was cancelled because of the [war](https://en.wikipedia.org/wiki/Russian_invasion_of_Ukraine) started by the russian dictator. <br>• [Telefunc](https://github.com/marat0n/telefunc) (alpha) -- A F# package for pretty and functional handling your Telegram-bot events.<br>• [MAS](https://t.me/masofyou) (alpha, closed for now) -- A cross-platform authomatic schema-based parser and AST-generator.|Project-oriented|
 
 ### Skills
@@ -50,7 +50,7 @@ email: [marat2255a@gmail.com](mailto:marat2255a@gmail.com)
 - Python's: Django, Flask, FastAPI, NumPy, 
 - Node's: React, Angular, Express
 
-**ORMs**:
+**Databases managment systems**:
 - MariaDB / MySQL
 - PostgreSQL
 - MS SQL
