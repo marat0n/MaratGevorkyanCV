@@ -402,7 +402,7 @@ let workExp: DocEl =
                     html (Html.lineBreak [])
                     [ ! "• "; Code "junior"; ! " Node.js dev," ]
                     html (Html.lineBreak [])
-                    [ ! "• "; Code "junior!"; ! "Dart & Flutter dev," ]
+                    [ ! "• "; Code "junior"; ! " Dart & Flutter dev," ]
                     html (Html.lineBreak [])
                     "• project-manager and dev-leader in several teams."
                 }
@@ -410,10 +410,9 @@ let workExp: DocEl =
               [ ! "Webcore Studio"
                 ! "10 months"
                 doc {
-                    [ ! "Front-end"; Code "trainee"; ! " and "; Code "junior"; ! " developer." ]
+                    [ ! "Front-end "; Code "trainee"; ! " and "; Code "junior"; ! " developer." ]
                     html (Html.lineBreak [])
-                    txt.b <| ! "stack"
-                    ": pure HTML/CSS/JS + Gulp."
+                    "Stack: pure HTML/CSS/JS + Gulp."
                 }
                 ! "Fulltime" ] ]
         )
@@ -422,7 +421,8 @@ let workExp: DocEl =
 
         ul
             [ ![ txt.a ("DragulaDropula", "https://github.com/marat0n/DragulaDropula")
-                 smallChip "2.1.2"
+                 ! " "
+                 Code "2.1.2"
                  txt.r " — A .NET Blazor package for dragging-and-droppping functionality (for canvas-oriented UX)." ]
               ![ txt.a ("KarteVonMorgen", "https://github.com/marat0n/kartevonmorgen.ts")
                  txt.r
@@ -430,10 +430,12 @@ let workExp: DocEl =
                  txt.a ("war", "https://en.wikipedia.org/wiki/Russian_invasion_of_Ukraine")
                  txt.r "." ]
               ![ txt.a ("Telefunc", "https://github.com/marat0n/telefunc")
-                 smallChip "alpha"
+                 ! " "
+                 Code "alpha"
                  ! " — A F# package for pretty and functional handling your Telegram-bot events." ]
               ![ txt.a ("yerevan.rs", "https://github.com/marat0n/yerevan.rs")
-                 smallChip "0.1.4"
+                 ! " "
+                 Code "0.1.4"
                  ! " — A Rust crate implemented the "
                  txt.a (
                      "Copmutation Expressions",
@@ -491,11 +493,11 @@ let education =
 
         table (
             [ "Where"; "Time"; "Place"; "Additional info" ],
-            [ [ ! "School"; ! "9 years"; ! "Korolyov, Balashicha, Moscow"; ! "" ]
+            [ [ ! "School"; ! "9 y."; ! "Korolyov, Balashicha, Moscow"; ! "" ]
               [ ! "College"
-                ! "4 years"
+                ! "4 y."
                 ! "Moscow"
-                ! "Field: Information Technology and Programming" ]
+                ! "Field: Information Technology and Programming. Did volunteering, hackathons and programming master-classes for other studients." ]
               [ ! "Self-education"
                 ! "Now"
                 ! ""

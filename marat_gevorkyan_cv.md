@@ -19,22 +19,22 @@ email: [marat2255a@gmail.com](mailto:marat2255a@gmail.com)
 |-|-|-|-|
 |"Blazee" telegram-bot|8 monthes|.NET F# `middle` dev, Flutter `middle` dev, Telegram-bot creator, Web-designer, Product-manager|Project-oriented|
 |IThub college's Ambassador|3+ years|Tech master-classes and courses creator and speaker (taught IT technologies to schoolers and college students).|Project-oriented|
-|IThub college's IT-incubator|2+ years|• `junior` and `middle` .NET-dev,<!DOCTYPE html><html lang="en"><head></head><body><br></body></html>• `junior` Node.js dev,<!DOCTYPE html><html lang="en"><head></head><body><br></body></html>• `junior!`Dart & Flutter dev,<!DOCTYPE html><html lang="en"><head></head><body><br></body></html>• project-manager and dev-leader in several teams.|Project-oriented|
-|Webcore Studio|10 months|Front-end`trainee` and `junior` developer.<!DOCTYPE html><html lang="en"><head></head><body><br></body></html>**stack**: pure HTML/CSS/JS + Gulp.|Fulltime|
+|IThub college's IT-incubator|2+ years|• `junior` and `middle` .NET-dev,<!DOCTYPE html><html lang="en"><head></head><body><br></body></html>• `junior` Node.js dev,<!DOCTYPE html><html lang="en"><head></head><body><br></body></html>• `junior` Dart & Flutter dev,<!DOCTYPE html><html lang="en"><head></head><body><br></body></html>• project-manager and dev-leader in several teams.|Project-oriented|
+|Webcore Studio|10 months|Front-end `trainee` and `junior` developer.<!DOCTYPE html><html lang="en"><head></head><body><br></body></html>Stack: pure HTML/CSS/JS + Gulp.|Fulltime|
 
 
 ### Open source
-- [DragulaDropula](https://github.com/marat0n/DragulaDropula)<!DOCTYPE html><html lang="en"><head></head><body><span style="color:2d2d2d;font-size:.8em;background:#d9d9d9;padding:1px 3px;margin:0 5px">2.1.2</span></body></html> — A .NET Blazor package for dragging-and-droppping functionality (for canvas-oriented UX).
+- [DragulaDropula](https://github.com/marat0n/DragulaDropula) `2.1.2` — A .NET Blazor package for dragging-and-droppping functionality (for canvas-oriented UX).
 - [KarteVonMorgen](https://github.com/marat0n/kartevonmorgen.ts) — "The map of tomorrow", a map accumulated all good places, where I participated in updating the landing-page and map-functionality in the russian version of project, before it was cancelled because of the [war](https://en.wikipedia.org/wiki/Russian_invasion_of_Ukraine).
-- [Telefunc](https://github.com/marat0n/telefunc)<!DOCTYPE html><html lang="en"><head></head><body><span style="color:2d2d2d;font-size:.8em;background:#d9d9d9;padding:1px 3px;margin:0 5px">alpha</span></body></html> — A F# package for pretty and functional handling your Telegram-bot events.
-- [yerevan.rs](https://github.com/marat0n/yerevan.rs)<!DOCTYPE html><html lang="en"><head></head><body><span style="color:2d2d2d;font-size:.8em;background:#d9d9d9;padding:1px 3px;margin:0 5px">0.1.4</span></body></html> — A Rust crate implemented the [Copmutation Expressions](https://fsharpforfunandprofit.com/posts/computation-expressions-intro/) idea (or [do-notations](https://en.wikibooks.org/wiki/Haskell/do_notation)) in the Rust language.
+- [Telefunc](https://github.com/marat0n/telefunc) `alpha` — A F# package for pretty and functional handling your Telegram-bot events.
+- [yerevan.rs](https://github.com/marat0n/yerevan.rs) `0.1.4` — A Rust crate implemented the [Copmutation Expressions](https://fsharpforfunandprofit.com/posts/computation-expressions-intro/) idea (or [do-notations](https://en.wikibooks.org/wiki/Haskell/do_notation)) in the Rust language.
 
 ## Education
 
 |Where|Time|Place|Additional info|
 |-|-|-|-|
-|School|9 years|Korolyov, Balashicha, Moscow||
-|College|4 years|Moscow|Field: Information Technology and Programming|
+|School|9 y.|Korolyov, Balashicha, Moscow||
+|College|4 y.|Moscow|Field: Information Technology and Programming. Did volunteering, hackathons and programming master-classes for other studients.|
 |Self-education|Now||Learning new skills or getting better at: Golang, Tact and TVM, Data-oriented programming and CS.|
 
 
