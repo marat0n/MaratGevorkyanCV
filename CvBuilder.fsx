@@ -355,7 +355,7 @@ let about: DocEl =
         [ ! "GitHub: "; txt.a ("marat0n", "https://github.com/marat0n") ]
         txt.lb
 
-        "Primarily .NET dev, also Flutter, NodeJS, Web-frontend and Rust dev."
+        "Primarily .NET dev, also Flutter, Python, NodeJS, Web-frontend and Rust dev."
 
         txt.h2 "Contact me"
 
@@ -383,8 +383,8 @@ let workExp: DocEl =
 
         table (
             [ "Place"; "Duration"; "My position and tasks"; "Occupation" ],
-            [ [ ! "\"Blazee\" telegram-bot"
-                ! "8 monthes"
+            [ [ ! "\"Blazee\" Telegram Bot"
+                ! "8 months"
                 ![ ! ".NET F# "
                    Code "middle"
                    ! " dev, Flutter "
@@ -472,7 +472,7 @@ let skills =
         txt.lb
         "Also: PHP, Ruby, Lua, Arduino, Godot, Unity."
 
-        txt.h3 "Databases managment systems"
+        txt.h3 "Database managment systems"
 
         ul
             [ ! "MariaDB / MySQL"
@@ -494,7 +494,7 @@ let education =
         table (
             [ "Where"; "Time"; "Place"; "Additional info" ],
             [ [ ! "School"; ! "9 y."; ! "Korolyov, Balashicha, Moscow"; ! "" ]
-              [ ! "College"
+              [ ! "IThub College"
                 ! "4 y."
                 ! "Moscow"
                 ! "Field: Information Technology and Programming. Did volunteering, hackathons and programming master-classes for other studients." ]

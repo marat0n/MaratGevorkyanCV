@@ -4,7 +4,7 @@
 
 GitHub: [marat0n](https://github.com/marat0n)
 
-Primarily .NET dev, also Flutter, NodeJS, Web-frontend and Rust dev.
+Primarily .NET dev, also Flutter, Python, NodeJS, Web-frontend and Rust dev.
 ## Contact me
 tel: [+374 98 842 226](tel://+37498842226) (Armenia)
 
@@ -17,7 +17,7 @@ email: [marat2255a@gmail.com](mailto:marat2255a@gmail.com)
 
 |Place|Duration|My position and tasks|Occupation|
 |-|-|-|-|
-|"Blazee" telegram-bot|8 monthes|.NET F# `middle` dev, Flutter `middle` dev, Telegram-bot creator, Web-designer, Product-manager|Project-oriented|
+|"Blazee" Telegram Bot|8 months|.NET F# `middle` dev, Flutter `middle` dev, Telegram-bot creator, Web-designer, Product-manager|Project-oriented|
 |IThub college's Ambassador|3+ years|Tech master-classes and courses creator and speaker (taught IT technologies to schoolers and college students).|Project-oriented|
 |IThub college's IT-incubator|2+ years|• `junior` and `middle` .NET-dev,<!DOCTYPE html><html lang="en"><head></head><body><br></body></html>• `junior` Node.js dev,<!DOCTYPE html><html lang="en"><head></head><body><br></body></html>• `junior` Dart & Flutter dev,<!DOCTYPE html><html lang="en"><head></head><body><br></body></html>• project-manager and dev-leader in several teams.|Project-oriented|
 |Webcore Studio|10 months|Front-end `trainee` and `junior` developer.<!DOCTYPE html><html lang="en"><head></head><body><br></body></html>Stack: pure HTML/CSS/JS + Gulp.|Fulltime|
@@ -34,7 +34,7 @@ email: [marat2255a@gmail.com](mailto:marat2255a@gmail.com)
 |Where|Time|Place|Additional info|
 |-|-|-|-|
 |School|9 y.|Korolyov, Balashicha, Moscow||
-|College|4 y.|Moscow|Field: Information Technology and Programming. Did volunteering, hackathons and programming master-classes for other studients.|
+|IThub College|4 y.|Moscow|Field: Information Technology and Programming. Did volunteering, hackathons and programming master-classes for other studients.|
 |Self-education|Now||Learning new skills or getting better at: Golang, Tact and TVM, Data-oriented programming and CS.|
 
 
@@ -56,7 +56,7 @@ email: [marat2255a@gmail.com](mailto:marat2255a@gmail.com)
 
 
 Also: PHP, Ruby, Lua, Arduino, Godot, Unity.
-### Databases managment systems
+### Database managment systems
 - MariaDB / MySQL
 - PostreSQL
 - MS SQL
